@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "shop",
+  "main": "app.js",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ansan-Yabesh",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ansan-Yabesh/Express.js-Routing-Practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ansan-Yabesh/Express.js-Routing-Practice/issues"
+  },
+  "homepage": "https://github.com/Ansan-Yabesh/Express.js-Routing-Practice#readme"
+}
